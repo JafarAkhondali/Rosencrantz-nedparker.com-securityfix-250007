@@ -1,0 +1,13 @@
+body {
+	background-color: #cacfa7;
+	font-size: 14px;
+	font-family: sans-serif;
+	margin: 20px;
+}
+
+#logo {
+	background: url('../img/logo.png') no-repeat left top;
+	width: 300px;
+	height: 75px;
+	text-indent: -99999px;
+}
